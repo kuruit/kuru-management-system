@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 from bson.objectid import ObjectId
 
+#lets go baby
 # Load environment variables from .env file
 load_dotenv()
 
